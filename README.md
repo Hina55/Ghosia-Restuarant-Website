@@ -2,7 +2,7 @@
 
 #### Website for Food Ordering System - Designed and Developed in WordPress
 
-Watch the Demo video of our edonation Application.. I hope you like it.
+Watch the Demo video on Youtube.. I hope you like it.
 
 [https://www.youtube.com/watch?v=hglpRDEliUM](https://www.youtube.com/watch?v=hglpRDEliUM)
 
